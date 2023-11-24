@@ -1,8 +1,14 @@
-import { ChangeEvent, useState } from "react"
+import { useState } from "react"
+
+/*
+Declare state 1 in react : useState() 
+- useState() declare simple state in react
+*/
 
 export const UseStatePage = () => {
     return (
         <div className="App">
+            <h1>use state example </h1>
             <Counter/>
             <Counter/>
             <Names/>
