@@ -2,7 +2,7 @@ import { useReducer } from "react";
 
 /*
 Declar state 2 in react : useReducer() 
-- unlike useState(), useReducer can handle more complex state
+- unlike useState(), useReducer can handle more complex state in difference situation
 
 based on javscript.reduce() function 
 same pattern works in Redux as well
